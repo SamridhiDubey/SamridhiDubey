@@ -11,14 +11,14 @@
 
 - 📫 How to reach me **samridhidubey269@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y-l5v7asw18s8WedBl7JYzT8o_dgG-4x/view?usp=share_link](https://drive.google.com/file/d/1Y-l5v7asw18s8WedBl7JYzT8o_dgG-4x/view?usp=share_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1sbBWPrEu-7j2yKPmtgMmPCG63KwOLRl7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/samridhi-dubey-4482551b9" target="blank"><img align="center" src="https://th.bing.com/th/id/R.7fb99744eaccae943d5adf537b5b3a93?rik=sNC6k82mr93rXg&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2016%2f07%2fLinkedin-Download-PNG.png&ehk=JIY8cgNpCk7cPTF8MwtiA4cZlSRWwLMAk%2b9QUzlJ4ns%3d&risl=&pid=ImgRaw&r=0" alt="samridhi-dubey-4482551b9" height="35" width="40" /></a>
 <a href="https://instagram.com/samridhidubeyy" target="blank"><img align="center" src="https://www.pngkey.com/png/full/792-7927620_instagram-vector-png-instagram-logo-png-free-download.png" alt="samridhidubeyy" height="35" width="40" /></a>
 <a href="https://www.hackerrank.com/samridhidubey269?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="SamridhiDubey" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/SamridhiDubey/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALeetCode_logo_black.png&psig=AOvVaw1zVpQpabKVTxtSnWtjy4F0&ust=1691059018901000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC_pvXjvYADFQAAAAAdAAAAABAD" alt="SamridhiDubey" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/SamridhiDubey/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="SamridhiDubey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
