@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/samridhi-dubey-4482551b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samridhi-dubey-4482551b9" height="30" width="40" /></a>
-<a href="https://instagram.com/samridhi.157" target="blank"><img align="center" src="https://www.pngkey.com/png/full/792-7927620_instagram-vector-png-instagram-logo-png-free-download.png" alt="samridhi.157" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/samridhi-dubey-4482551b9" target="blank"><img align="center" src="https://th.bing.com/th/id/R.7fb99744eaccae943d5adf537b5b3a93?rik=sNC6k82mr93rXg&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2016%2f07%2fLinkedin-Download-PNG.png&ehk=JIY8cgNpCk7cPTF8MwtiA4cZlSRWwLMAk%2b9QUzlJ4ns%3d&risl=&pid=ImgRaw&r=0" alt="samridhi-dubey-4482551b9" height="35" width="40" /></a>
+<a href="https://instagram.com/samridhi.157" target="blank"><img align="center" src="https://www.pngkey.com/png/full/792-7927620_instagram-vector-png-instagram-logo-png-free-download.png" alt="samridhi.157" height="35" width="40" /></a>
 <a href="https://www.hackerrank.com/SamridhiDubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="SamridhiDubey" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/SamridhiDubey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SamridhiDubey" height="30" width="40" /></a>
 </p>
